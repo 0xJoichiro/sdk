@@ -2,6 +2,13 @@
 
 # UNRELEASED
 
+## Dependencies
+
+### Frontend canister
+
+- Module hash: 2cc4ec4381dee231379270a08403c984986c9fc0c2eaadb64488b704a3104cc0
+- https://github.com/dfinity/sdk/pull/3767
+
 # 0.20.2
 
 ### fix: `dfx canister delete` fails
